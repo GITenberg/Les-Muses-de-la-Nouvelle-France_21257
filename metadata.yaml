@@ -1,0 +1,31 @@
+_repo: Les-Muses-de-la-Nouvelle-France_21257
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lescarbot, Marc
+    alias: Lescarbot, Marc
+    birthdate: 1570
+    deathdate: 1641
+    gutenberg_agent_id: '25225'
+    url: http://www.gutenberg.org/2009/agents/25225
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Marc_Lescarbot
+    - http://fr.wikipedia.org/wiki/Marc_Lescarbot
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2007-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21257'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- To 1763 (New France) -- Poetry'
+title: Les Muses de la Nouvelle France
+url: http://www.gutenberg.org/ebooks/21257
